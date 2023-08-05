@@ -5,7 +5,7 @@ Make your life easier with this resource pack and don't miss any suspicious bloc
 
 # Required mods (optional):
 
-Optifine or <a href=https://modtinth.com/mods/continuity>Continuity</a> to enable emissive textures
+Optifine or [Continuity](https://modtinth.com/mods/continuity) to enable emissive textures
 
 # Screenshot
 
