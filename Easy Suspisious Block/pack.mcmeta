@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 18,
     "supported_formats": {
-       "min_inclusive": 18, "max_inclusive": 18
+      "min_inclusive": 18, "max_inclusive": 18
      },
     "description":"§8by gitq"
   }
