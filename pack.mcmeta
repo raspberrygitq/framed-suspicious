@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 15,
     "supported_formats": {
-      "min_inclusive": 15, "max_inclusive": 63
+      "min_inclusive": 15, "max_inclusive": 64
      },
     "description": "Framed Suspicious resources."
   }
