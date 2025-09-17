@@ -2,8 +2,10 @@
   "pack": {
     "pack_format": 15,
     "supported_formats": {
-      "min_inclusive": 15, "max_inclusive": 64
-     },
+      "min_inclusive": 15, "max_inclusive": 69
+    },
+    "min_formats": [ 15, 0 ],
+    "max_formats": [ 69, 0 ],
     "description": "Framed Suspicious resources."
   }
 }
